@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/MSI/Desktop/mindX/6",
-      "program": "c:/Users/MSI/Desktop/mindX/6/build/Debug/outDebug",
+      "cwd": "c:/Users/MSI/Desktop/mindX/6. Thuật toán trong C",
+      "program": "c:/Users/MSI/Desktop/mindX/6. Thuật toán trong C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
